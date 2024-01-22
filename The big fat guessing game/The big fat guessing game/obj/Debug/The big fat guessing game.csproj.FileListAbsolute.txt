@@ -1,0 +1,22 @@
+F:\The big fat guessing game\The big fat guessing game\bin\Debug\The big fat guessing game.exe.config
+F:\The big fat guessing game\The big fat guessing game\bin\Debug\The big fat guessing game.exe
+F:\The big fat guessing game\The big fat guessing game\bin\Debug\The big fat guessing game.pdb
+F:\The big fat guessing game\The big fat guessing game\obj\Debug\The big fat guessing game.csprojAssemblyReference.cache
+F:\The big fat guessing game\The big fat guessing game\obj\Debug\The big fat guessing game.csproj.CoreCompileInputs.cache
+F:\The big fat guessing game\The big fat guessing game\obj\Debug\The big fat guessing game.exe
+F:\The big fat guessing game\The big fat guessing game\obj\Debug\The big fat guessing game.pdb
+F:\Visual Studio 2017\The big fat guessing game\The big fat guessing game\bin\Debug\The big fat guessing game.exe.config
+F:\Visual Studio 2017\The big fat guessing game\The big fat guessing game\bin\Debug\The big fat guessing game.exe
+F:\Visual Studio 2017\The big fat guessing game\The big fat guessing game\bin\Debug\The big fat guessing game.pdb
+F:\Visual Studio 2017\The big fat guessing game\The big fat guessing game\obj\Debug\The big fat guessing game.csprojAssemblyReference.cache
+F:\Visual Studio 2017\The big fat guessing game\The big fat guessing game\obj\Debug\The big fat guessing game.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2017\The big fat guessing game\The big fat guessing game\obj\Debug\The big fat guessing game.exe
+F:\Visual Studio 2017\The big fat guessing game\The big fat guessing game\obj\Debug\The big fat guessing game.pdb
+C:\Users\rudij\Desktop\Visual Studio 2017\The big fat guessing game\The big fat guessing game\bin\Debug\The big fat guessing game.exe.config
+C:\Users\rudij\Desktop\Visual Studio 2017\The big fat guessing game\The big fat guessing game\bin\Debug\The big fat guessing game.exe
+C:\Users\rudij\Desktop\Visual Studio 2017\The big fat guessing game\The big fat guessing game\bin\Debug\The big fat guessing game.pdb
+C:\Users\rudij\Desktop\Visual Studio 2017\The big fat guessing game\The big fat guessing game\obj\Debug\The big fat guessing game.csproj.AssemblyReference.cache
+C:\Users\rudij\Desktop\Visual Studio 2017\The big fat guessing game\The big fat guessing game\obj\Debug\The big fat guessing game.csproj.SuggestedBindingRedirects.cache
+C:\Users\rudij\Desktop\Visual Studio 2017\The big fat guessing game\The big fat guessing game\obj\Debug\The big fat guessing game.csproj.CoreCompileInputs.cache
+C:\Users\rudij\Desktop\Visual Studio 2017\The big fat guessing game\The big fat guessing game\obj\Debug\The big fat guessing game.exe
+C:\Users\rudij\Desktop\Visual Studio 2017\The big fat guessing game\The big fat guessing game\obj\Debug\The big fat guessing game.pdb
